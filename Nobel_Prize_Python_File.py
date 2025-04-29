@@ -37,7 +37,7 @@ print('ReadMe: ', '\n')
 
 print('Please note that you will find two DataFrames made of the same dataset. The difference between the two is that the Processed DF will include all records',
       "purified of null values (NaNs) in certain columns, such as 'Birth Date',    'Birth Country' and 'Sex'", 
-      'whereas the Raw DF will include all records regardless of having NaNs in the columns.', 
+       
       '   I am doing this to protect the data integrity within some graphs that I am visualising!', '\n', '\n', '\n')
 
 
